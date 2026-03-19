@@ -1,25 +1,25 @@
-# Dashboard Interativo – Mercado de Veículos Elétricos (EVs)
+# Interactive Dashboard – Electric Vehicle (EV) Market
 
-Este projeto é um dashboard interativo desenvolvido com Python, Streamlit e Plotly, que explora dados históricos do mercado global de veículos elétricos entre 2010 e 2024.
+This project is an interactive dashboard developed using Python, Streamlit, and Plotly, which analyzes historical data from the global electric vehicle market between 2010 and 2024.
 
-# Funcionalidades
+# Features
 
-- Upload de arquivo CSV com dados customizados
-- Filtros dinâmicos por:
-  - País/região
-  - Tipo de motorização (BEV, PHEV, EV)
-  - Métrica (vendas, estoque, participação)
-  - Intervalo de anos
-- KPIs automáticos:
-  - Total acumulado
-  - Média anual
-  - Ano com pico de valor
-- Gráficos interativos com Plotly
-- Tratamento de dados ausentes para evitar erros durante a execução
+- Upload a CSV file with custom data
+- Dynamic filters by:
+  - Country/region
+  - Vehicle type (BEV, PHEV, EV)
+  - Metric (sales, inventory, market share)
+  - Year range
+- Automatic KPIs:
+  - Cumulative total
+  - Annual average
+  - Year with peak value
+- Interactive charts with Plotly
+- Handling of missing data to prevent errors during execution
 
 ---
 
-# Tecnologias Utilizadas
+# Technologies Used
 
 - Python 3.8+
 - [Streamlit](https://streamlit.io/)
